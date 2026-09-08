@@ -2,6 +2,7 @@
 
 An AI-powered learning platform that helps users build three core career skills — **Communication, Leadership, and Project Management** — through an AI coach, interactive scenario practice, and curated video mentors.
 
+
 Built for hackathon submission.
 
 ## What it does
