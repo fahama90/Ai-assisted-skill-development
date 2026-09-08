@@ -2,6 +2,7 @@
 
 An AI-powered learning platform that helps users build three core career skills — **Communication, Leadership, and Project Management** — through an AI coach, interactive scenario practice, and curated video mentors.
 
+In the future, we will be adding Knowledge Graph (Neo4j) and NetworkX for more personalization. 
 
 Built for hackathon submission.
 
