@@ -76,9 +76,9 @@ VIDEOS: dict[str, list[dict[str, str]]] = {
         {"id": "qp0HIF3SfI4", "title": "How great leaders inspire action", "meta": "Simon Sinek · TED", "duration": "18:04"},
     ],
     "project": [
-        {"id": "rck3MnZM7cU", "title": "Project Management Simplified", "meta": "simpletivity", "duration": "11:53"},
         {"id": "Z9QbYZh1YXY", "title": "What is Agile?", "meta": "Mark Shead", "duration": "10:06"},
-        {"id": "vH4NnImxKZA", "title": "The Art of Project Management", "meta": "Scott Berkun · Talks at Google", "duration": "55:08"},
+        {"id": "DvBKevrItcc", "title": "Agile Project Management: Scrum & Sprint Demystified", "meta": "ProjectManager", "duration": "8:09"},
+        {"id": "502ILHjX9EE", "title": "Agile Product Ownership in a Nutshell", "meta": "Henrik Kniberg", "duration": "15:51"},
     ],
 }
 
